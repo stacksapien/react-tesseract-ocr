@@ -46,5 +46,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+},
+"repository": {
+  "type": "git",
+  "url": "git@github.com:stacksapien/react-tesseract-ocr.git"
+},
+"bugs": {
+  "url": "https://github.com/stacksapien/react-tesseract-ocr/issues"
+},
+"author": "stacksapien <contact.vishalvermachd@gmail.com> (https://github.com/stacksapien)",
+"license": "MIT"
 }
